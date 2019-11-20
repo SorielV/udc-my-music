@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     width: null,
     height: null,
     backgroundColor: 'white',
-    alignItems: 'center',
+    alignItems: 'center'
   },
   logo: {
     width: 200,
@@ -93,13 +93,13 @@ const styles = StyleSheet.create({
     color: '#000035',
     marginBottom: 40,
     borderRadius: 5,
-    padding: 5,
+    padding: 5
   },
   boton: {
     justifyContent: 'center',
     alignItems: 'center',
     width: 230,
     height: 40,
-    backgroundColor: '#00ccd0',
+    backgroundColor: '#00ccd0'
   }
 })

@@ -1,4 +1,5 @@
 import fetchAPI from './fetch'
+
 fetchAPI.baseUrl = 'https://mobile-api-ucol.herokuapp.com'
 
 export const getToken = (email, password) =>

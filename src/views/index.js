@@ -1,5 +1,5 @@
 import Home from './Home'
 import Login from './Login'
-import AristDetail from './ArtistDetail'
+import ArtistDetail from './ArtistDetail'
 
-export { Home, Login, AristDetail }
+export { Home, Login, ArtistDetail }

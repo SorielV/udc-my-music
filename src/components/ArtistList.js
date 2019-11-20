@@ -1,9 +1,7 @@
 import React, { Component } from 'react'
 import { ListView, TouchableOpacity } from 'react-native'
-
-import ArtistBox from './ArtistBox'
-
 import { Actions } from 'react-native-router-flux'
+import ArtistBox from './ArtistBox'
 
 export default class ArtistList extends Component {
   constructor(props) {

@@ -42,11 +42,11 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'column',
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'center'
   },
   name: {
     fontSize: 20,
     marginTop: 10,
     color: '#333'
   },
-});
+})
